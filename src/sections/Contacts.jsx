@@ -111,7 +111,7 @@ function Contact() {
                                 </div>
                                 <div className="flex items-center gap-4">
                                     <FaMapMarkerAlt className="text-blue-600 dark:text-amber-300 text-xl" />
-                                    <span>Azamgarh, Uttar Pradesh, India</span>
+                                    <span>Faridabad, Haryana, India</span>
                                 </div>
                             </div>
                         </div>
